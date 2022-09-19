@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Laurels</h1>
 
-**DarkGrapher** is a software engineer and web developer!
+**I** am a software engineer and web developer!
 
 - 🔭 I’m currently working on software engineering projects
 - 🌱 I’m currently learning C programming language
