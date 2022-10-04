@@ -1,9 +1,3 @@
-<a href="https://github.com/laurells">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurells&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/laurells">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=laurells&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</a>
 <h1 align="center">Hi 👋, I'm Laurels</h1>
 
 # 💫 About Me:
