@@ -1,4 +1,12 @@
+<a href="https://github.com/laurells">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurells&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/laurells">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=laurells&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+</a>
 <h1 align="center">Hi 👋, I'm Laurels</h1>
+
+# 💫 About Me:
 
 **I** am a software engineer and web developer!
 
@@ -7,16 +15,6 @@
 - 💬 Ask me about anything via mail laurels.echichinwo@stu.cu.edu.ng
 - 📫 How to reach me: https://www.linkedin.com/in/laurels-junior/
 - ⚡ Fun fact: My friends call me debug priest.
-
-<a href="https://github.com/laurells">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurells&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/laurells">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=laurells&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</a>
-
-# 💫 About Me:
-I’m currently working on software engineering projects<br>I’m currently learning C programming language<br>Ask me about anything via mail laurels.echichinwo@stu.cu.edu.ng<br>How to reach me: https://www.linkedin.com/in/laurels-junior/<br>Fun fact: My friends call me debug priest.
 
 
 ## 🌐 Socials:
@@ -41,5 +39,5 @@ I’m currently working on software engineering projects<br>I’m currently lear
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/laurelsechf) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
   
