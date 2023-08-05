@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-**I** am a software engineer and web developer!
+**I** am a software engineer!
 
 - 🔭 I’m currently working on software engineering projects
 - 🌱 I’m currently learning C programming language
