@@ -7,7 +7,7 @@ I am a software engineer focused on building robust backends, writing clean code
 
 - 🔭 **Currently focusing on:** Developing scalable backend systems and open-source software projects.
 - 🌱 **Learning journey:** Deep-diving into the C programming language to master low-level memory management and systems programming.
-- ⚡ **Fun fact:** My friends call me the **Debug Priest** because if your code is broken, I will perform the exorcism.
+- ⚡ **Fun fact:** My friends call me the **Debug Priest** because if your code is broken, I will fix it.
 
 ---
 
@@ -53,5 +53,4 @@ If you want to collaborate on a project, talk systems architecture, or need a bu
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=laurells&icon=0&color=0" alt="Visitor Count" />
 </p>
