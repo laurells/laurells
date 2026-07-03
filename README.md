@@ -36,11 +36,8 @@ If you want to collaborate on a project, talk systems architecture, or need a bu
 # 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=laurells&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="Laurels's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laurells&theme=gruvbox&hide_border=false" alt="Laurels's GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurells&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Laurels's Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote
