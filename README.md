@@ -7,12 +7,12 @@
 - 🔭 I’m currently working on software engineering projects
 - 🌱 I’m currently learning C programming language
 - 💬 Ask me about anything via mail laurels.echichinwo@stu.cu.edu.ng
-- 📫 How to reach me: https://www.linkedin.com/in/codewithlaurels/
+- 📫 How to reach me: https://www.linkedin.com/in/laurels-ozy-echichinwo
 - ⚡ Fun fact: My friends call me debug priest.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laurels.oe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Laurels-junior/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Laurels_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laurels.oe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laurels-ozy-echichinwo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Laurels_) 
 
 
 # 💻 Tech Stack:
